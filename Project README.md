@@ -1,1 +1,1 @@
-Elastic Beanstalk endpoint URL - http://image-filter-starter-code-dev2.ap-south-1.elasticbeanstalk.com/
+Elastic Beanstalk endpoint URL - http://image-filter-api-dev.us-east-1.elasticbeanstalk.com/
